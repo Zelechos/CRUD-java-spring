@@ -3,6 +3,13 @@ package com.example.crud_spring.models;
 import jakarta.persistence.*;
 import lombok.Data;
 
+/**
+ * Create CRUD whit Spring
+ *
+ * @author Alex T.H.
+ * @version v0.0.1
+ * @since 21.0.0 2024-08-23
+ */
 @Data
 @Entity
 @Table(name = "actor")
