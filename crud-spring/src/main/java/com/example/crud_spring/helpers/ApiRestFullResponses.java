@@ -7,7 +7,7 @@ import lombok.Data;
  * Create CRUD whit Spring
  *
  * @author Alex T.H.
- * @version v0.0.1
+ * @version v0.0.3
  * @since 21.0.0 2024-08-23
  */
 @Data
