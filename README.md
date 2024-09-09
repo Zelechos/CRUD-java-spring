@@ -1,2 +1,5 @@
-# Pasantia
-repository for internship of USFX
+# CRUDS
+
+repository for Learn develop CRUDS
+
+by: Alex T.H.
